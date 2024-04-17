@@ -1,0 +1,42 @@
+Valor: 2000.00
+Descrição: teste
+Dia: 20
+Mês: 10
+Ano: 2022
+Categoria: transporte
+
+Valor: 30.00
+Descrição: teste2
+Dia: 10
+Mês: 10
+Ano: 2022
+Categoria: transporte
+
+Valor: 600.00
+Descrição: teste4
+Dia: 12
+Mês: 12
+Ano: 2022
+Categoria: abajur
+
+Valor: 12.00
+Descrição: 12
+Dia: 12
+Mês: 12
+Ano: 2021
+Categoria: transporte
+
+Valor: 200.00
+Descrição: skinsas
+Dia: 17
+Mês: 5
+Ano: 2003
+Categoria: ko
+
+Valor: 200.00
+Descrição: oi
+Dia: 1
+Mês: 3
+Ano: 2023
+Categoria: x
+

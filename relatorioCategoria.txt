@@ -1,0 +1,14 @@
+Valor: 2000.00
+Descrição: teste
+Dia: 20
+Mês: 10
+Ano: 2022
+Categoria: transporte
+
+Valor: 30.00
+Descrição: teste2
+Dia: 10
+Mês: 10
+Ano: 2022
+Categoria: transporte
+
